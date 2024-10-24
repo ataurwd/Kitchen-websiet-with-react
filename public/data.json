@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Grilled Chicken Basil",
+      "description": "A healthy and delicious grilled chicken dish with fresh basil and mushrooms.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK_WjHETbQJrwIaty_I2MCB_Q5uLjpPDCDg&s",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": 30,
+      "calories": 320
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti Bolognese",
+      "description": "A classic Italian pasta dish with rich meat sauce.",
+      "image": "https://www.ericlyons.co.uk/wp-content/uploads/2021/06/8K0A7866-2000x1333.jpg",
+      "ingredients": [
+        "400 g spaghetti",
+        "500 g ground beef",
+        "1 can tomato sauce",
+        "1 onion, chopped",
+        "2 garlic cloves,ced"
+      ],
+      "preparing_time": 45,
+      "calories": 450
+    },
+    {
+      "id": 3,
+      "name": "Avocado Toast",
+      "description": "A simple and nutritious breakfast with smashed avocado and toppings.",
+      "image": "https://www.eatingwell.com/thmb/5WPPXV5n1fFOKXSeO8s3D2KXIGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/EatingWell-April-Avocado-Toast-Directions-03-23712072b7df44b8b3cd87681700e67b.jpg",
+      "ingredients": [
+        "2 slices whole grain bread",
+        "1 avocado, smashed",
+        "1 tbsp olive oil",
+        "1 pinch sea salt",
+        "1 pinch black pepper"
+      ],
+      "preparing_time": 10,
+      "calories": 200
+    },
+    {
+      "id": 4,
+      "name": "Tomato Basil Soup",
+      "description": "A creamy and tangy tomato soup with fresh basil.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEeeQ6Wyp_Ul1HsfVeIhOUc0lrHy8xklNMUw&s",
+      "ingredients": [
+        "500 g ripe tomatoes",
+        "1 cup fresh basil leaves",
+        "2 tbsp olive oil",
+        "1 onion, chopped",
+        "2 garlic cloves,ced"
+      ],
+      "preparing_time": 25,
+      "calories": 180
+    },
+    {
+      "id": 5,
+      "name": "Beef Stir Fry",
+      "description": "A quick and savory stir fry with tender beef and vegetables.",
+      "image": "https://realfood.tesco.com/media/images/1400x919-Crispy-beef-and-broccoli-stir-fry-ec31e6b7-5468-474e-8e0a-8c4cc909ce58-0-1400x919.jpg",
+      "ingredients": [
+        "400 g beef strips",
+        "2 tbsp soy sauce",
+        "200 g broccoli",
+        "1 carrot, sliced",
+        "2 garlic cloves,ced"
+      ],
+      "preparing_time": 20,
+      "calories": 350
+    },
+    {
+      "id": 6,
+      "name": "Lemon Garlic Salmon",
+      "description": "A flavorful baked salmon dish with lemon and garlic.",
+      "image": "https://www.eatwell101.com/wp-content/uploads/2019/03/baked-salmon-in-foil-recipe.jpg",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 tbsp lemon juice",
+        "3 garlic cloves,ced",
+        "1 tbsp olive oil",
+        "1 pinch sea salt"
+      ],
+      "preparing_time": 25,
+      "calories": 280
+    }
+  ]
+  
